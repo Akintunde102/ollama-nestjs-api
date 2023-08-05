@@ -5,5 +5,6 @@
 ```bash
 git clone https://github.com/Akintunde102/ollama-nestjs-api.git
 cd ollama-nestjs-api
+npm install
 npm run start:debug
 ```
